@@ -12,7 +12,7 @@
 
 - **Assistant Programmer** at Sonali Bank PLC, leading the development of digital finance services with an active user base of 800,000+.
 - **AI Training Specialist**, improving chatbot accuracy and reliability on software engineering queries.
-- Former Software Engineer at Therap (BD) Ltd.
+- Former **Software Engineer** at Therap (BD) Ltd.
 
 ### 🛠️ Tech Stack
 
